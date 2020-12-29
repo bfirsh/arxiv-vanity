@@ -13,7 +13,7 @@ boto3==1.5.0
 PyGithub==1.43.8
 sentry-sdk==0.14.1
 vcrpy==2.0.1
-django-db-geventpool==3.2.3
+django-db-geventpool==4.0.0
 gevent==20.9.0
 pylint==2.4.4
 pylint-django==2.3.0
